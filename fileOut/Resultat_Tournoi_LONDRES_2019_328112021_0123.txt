@@ -1,0 +1,259 @@
+****************************************************************************************************
+******************************** simple homme ***********************************
+******************************** début du 1er tour ***********************************
+****************************************************************************************************
+Match 1 : NomJoueur28 PrenomJoueur28 vs NomJoueur142 PrenomJoueur142
+L'arbitre du match est : Bernardes Carlos
+Le gagnant est : NomJoueur28 PrenomJoueur28
+-----------------------------------------------------------------------------------------------
+Match 2 : NomJoueur151 PrenomJoueur151 vs NomJoueur146 PrenomJoueur146
+L'arbitre du match est : Bernardes Carlos
+Le gagnant est : NomJoueur151 PrenomJoueur151
+-----------------------------------------------------------------------------------------------
+Match 3 : NomJoueur87 PrenomJoueur87 vs NomJoueur79 PrenomJoueur79
+L'arbitre du match est : Bernardes Carlos
+Le gagnant est : NomJoueur87 PrenomJoueur87
+-----------------------------------------------------------------------------------------------
+Match 4 : NomJoueur15 PrenomJoueur15 vs NomJoueur36 PrenomJoueur36
+L'arbitre du match est : Lang Alison
+Le gagnant est : NomJoueur36 PrenomJoueur36
+-----------------------------------------------------------------------------------------------
+Match 5 : NomJoueur148 PrenomJoueur148 vs NomJoueur70 PrenomJoueur70
+L'arbitre du match est : Herfel Roland
+Le gagnant est : NomJoueur70 PrenomJoueur70
+-----------------------------------------------------------------------------------------------
+Match 6 : NomJoueur51 PrenomJoueur41 vs NomJoueur145 PrenomJoueur145
+L'arbitre du match est : Bernardes Carlos
+Le gagnant est : NomJoueur145 PrenomJoueur145
+-----------------------------------------------------------------------------------------------
+Match 7 : NomJoueur48 PrenomJoueur48 vs NomJoueur67 PrenomJoueur67
+L'arbitre du match est : Murphy Fergus
+Le gagnant est : NomJoueur48 PrenomJoueur48
+-----------------------------------------------------------------------------------------------
+Match 8 : NomJoueur62 PrenomJoueur62 vs NomJoueur26 PrenomJoueur26
+L'arbitre du match est : Blom John
+Le gagnant est : NomJoueur26 PrenomJoueur26
+-----------------------------------------------------------------------------------------------
+Match 9 : NomJoueur40 PrenomJoueur40 vs NomJoueur98 PrenomJoueur98
+L'arbitre du match est : Kjendlie Julie
+Le gagnant est : NomJoueur40 PrenomJoueur40
+-----------------------------------------------------------------------------------------------
+Match 10 : NomJoueur8 PrenomJoueur8 vs NomJoueur35 PrenomJoueur35
+L'arbitre du match est : Joseph Emmanuel
+Le gagnant est : NomJoueur8 PrenomJoueur8
+-----------------------------------------------------------------------------------------------
+Match 11 : NomJoueur164 PrenomJoueur164 vs NomJoueur4 PrenomJoueur4
+L'arbitre du match est : Kjendlie Julie
+Le gagnant est : NomJoueur164 PrenomJoueur164
+-----------------------------------------------------------------------------------------------
+Match 12 : NomJoueur82 PrenomJoueur82 vs NomJoueur72 PrenomJoueur72
+L'arbitre du match est : Joseph Emmanuel
+Le gagnant est : NomJoueur82 PrenomJoueur82
+-----------------------------------------------------------------------------------------------
+Match 13 : NomJoueur1 PrenomJoueur1 vs NomJoueur150 PrenomJoueur150
+L'arbitre du match est : Murphy Fergus
+Le gagnant est : NomJoueur1 PrenomJoueur1
+-----------------------------------------------------------------------------------------------
+Match 14 : NomJoueur34 PrenomJoueur34 vs NomJoueur95 PrenomJoueur95
+L'arbitre du match est : Moscarella Gianluca
+Le gagnant est : NomJoueur34 PrenomJoueur34
+-----------------------------------------------------------------------------------------------
+Match 15 : NomJoueur49 PrenomJoueur49 vs NomJoueur10 PrenomJoueur10
+L'arbitre du match est : Nili Ali
+Le gagnant est : NomJoueur10 PrenomJoueur10
+-----------------------------------------------------------------------------------------------
+Match 16 : NomJoueur12 PrenomJoueur12 vs NomJoueur161 PrenomJoueur161
+L'arbitre du match est : Forcadell Nacho
+Le gagnant est : NomJoueur161 PrenomJoueur161
+-----------------------------------------------------------------------------------------------
+Match 17 : NomJoueur93 PrenomJoueur93 vs NomJoueur38 PrenomJoueur38
+L'arbitre du match est : Nili Ali
+Le gagnant est : NomJoueur38 PrenomJoueur38
+-----------------------------------------------------------------------------------------------
+Match 18 : NomJoueur24 PrenomJoueur24 vs NomJoueur6 PrenomJoueur6
+L'arbitre du match est : Bernardes Carlos
+Le gagnant est : NomJoueur6 PrenomJoueur6
+-----------------------------------------------------------------------------------------------
+Match 19 : NomJoueur99 PrenomJoueur99 vs NomJoueur52 PrenomJoueur42
+L'arbitre du match est : Kjendlie Julie
+Le gagnant est : NomJoueur52 PrenomJoueur42
+-----------------------------------------------------------------------------------------------
+Match 20 : NomJoueur77 PrenomJoueur77 vs NomJoueur63 PrenomJoueur63
+L'arbitre du match est : Bernardes Carlos
+Le gagnant est : NomJoueur77 PrenomJoueur77
+-----------------------------------------------------------------------------------------------
+Match 21 : NomJoueur45 PrenomJoueur45 vs NomJoueur153 PrenomJoueur153
+L'arbitre du match est : Lang Alison
+Le gagnant est : NomJoueur153 PrenomJoueur153
+-----------------------------------------------------------------------------------------------
+Match 22 : NomJoueur76 PrenomJoueur76 vs NomJoueur157 PrenomJoueur157
+L'arbitre du match est : Kjendlie Julie
+Le gagnant est : NomJoueur76 PrenomJoueur76
+-----------------------------------------------------------------------------------------------
+Match 23 : NomJoueur7 PrenomJoueur7 vs NomJoueur23 PrenomJoueur23
+L'arbitre du match est : Kjendlie Julie
+Le gagnant est : NomJoueur23 PrenomJoueur23
+-----------------------------------------------------------------------------------------------
+Match 24 : NomJoueur44 PrenomJoueur44 vs NomJoueur81 PrenomJoueur81
+L'arbitre du match est : Blom John
+Le gagnant est : NomJoueur81 PrenomJoueur81
+-----------------------------------------------------------------------------------------------
+Match 25 : NomJoueur5 PrenomJoueur5 vs NomJoueur27 PrenomJoueur27
+L'arbitre du match est : Dumusois Damien
+Le gagnant est : NomJoueur27 PrenomJoueur27
+-----------------------------------------------------------------------------------------------
+Match 26 : NomJoueur167 PrenomJoueur167 vs NomJoueur50 PrenomJoueur40
+L'arbitre du match est : Bacchi Pierre
+Le gagnant est : NomJoueur50 PrenomJoueur40
+-----------------------------------------------------------------------------------------------
+Match 27 : NomJoueur97 PrenomJoueur97 vs NomJoueur57 PrenomJoueur47
+L'arbitre du match est : Blom John
+Le gagnant est : NomJoueur97 PrenomJoueur97
+-----------------------------------------------------------------------------------------------
+Match 28 : NomJoueur29 PrenomJoueur29 vs NomJoueur47 PrenomJoueur47
+L'arbitre du match est : Herfel Roland
+Le gagnant est : NomJoueur47 PrenomJoueur47
+-----------------------------------------------------------------------------------------------
+Match 29 : NomJoueur55 PrenomJoueur45 vs NomJoueur65 PrenomJoueur65
+L'arbitre du match est : Murphy Fergus
+Le gagnant est : NomJoueur65 PrenomJoueur65
+-----------------------------------------------------------------------------------------------
+Match 30 : NomJoueur68 PrenomJoueur68 vs NomJoueur149 PrenomJoueur149
+L'arbitre du match est : Tourte Aurélie
+Le gagnant est : NomJoueur149 PrenomJoueur149
+-----------------------------------------------------------------------------------------------
+Match 31 : NomJoueur162 PrenomJoueur162 vs NomJoueur37 PrenomJoueur37
+L'arbitre du match est : Moscarella Gianluca
+Le gagnant est : NomJoueur37 PrenomJoueur37
+-----------------------------------------------------------------------------------------------
+Match 32 : NomJoueur91 PrenomJoueur91 vs NomJoueur66 PrenomJoueur66
+L'arbitre du match est : Murphy Fergus
+Le gagnant est : NomJoueur66 PrenomJoueur66
+-----------------------------------------------------------------------------------------------
+Match 33 : NomJoueur74 PrenomJoueur74 vs NomJoueur16 PrenomJoueur16
+L'arbitre du match est : Nour Abdel
+Le gagnant est : NomJoueur74 PrenomJoueur74
+-----------------------------------------------------------------------------------------------
+Match 34 : NomJoueur60 PrenomJoueur60 vs NomJoueur90 PrenomJoueur90
+L'arbitre du match est : Nili Ali
+Le gagnant est : NomJoueur90 PrenomJoueur90
+-----------------------------------------------------------------------------------------------
+Match 35 : NomJoueur18 PrenomJoueur18 vs NomJoueur80 PrenomJoueur80
+L'arbitre du match est : Herfel Roland
+Le gagnant est : NomJoueur18 PrenomJoueur18
+-----------------------------------------------------------------------------------------------
+Match 36 : NomJoueur46 PrenomJoueur46 vs NomJoueur43 PrenomJoueur43
+L'arbitre du match est : Herfel Roland
+Le gagnant est : NomJoueur46 PrenomJoueur46
+-----------------------------------------------------------------------------------------------
+Match 37 : NomJoueur71 PrenomJoueur71 vs NomJoueur143 PrenomJoueur143
+L'arbitre du match est : Keothavong James
+Le gagnant est : NomJoueur71 PrenomJoueur71
+-----------------------------------------------------------------------------------------------
+Match 38 : NomJoueur168 PrenomJoueur167 vs NomJoueur14 PrenomJoueur14
+L'arbitre du match est : Nili Ali
+Le gagnant est : NomJoueur14 PrenomJoueur14
+-----------------------------------------------------------------------------------------------
+Match 39 : NomJoueur39 PrenomJoueur39 vs NomJoueur33 PrenomJoueur33
+L'arbitre du match est : Herfel Roland
+Le gagnant est : NomJoueur33 PrenomJoueur33
+-----------------------------------------------------------------------------------------------
+Match 40 : NomJoueur19 PrenomJoueur19 vs NomJoueur13 PrenomJoueur13
+L'arbitre du match est : Blom John
+Le gagnant est : NomJoueur13 PrenomJoueur13
+-----------------------------------------------------------------------------------------------
+Match 41 : NomJoueur21 PrenomJoueur21 vs NomJoueur20 PrenomJoueur20
+L'arbitre du match est : Herfel Roland
+Le gagnant est : NomJoueur20 PrenomJoueur20
+-----------------------------------------------------------------------------------------------
+Match 42 : NomJoueur30 PrenomJoueur30 vs NomJoueur89 PrenomJoueur89
+L'arbitre du match est : Tourte Aurélie
+Le gagnant est : NomJoueur30 PrenomJoueur30
+-----------------------------------------------------------------------------------------------
+Match 43 : NomJoueur54 PrenomJoueur44 vs NomJoueur141 PrenomJoueur141
+L'arbitre du match est : Forcadell Nacho
+Le gagnant est : NomJoueur141 PrenomJoueur141
+-----------------------------------------------------------------------------------------------
+Match 44 : NomJoueur155 PrenomJoueur155 vs NomJoueur61 PrenomJoueur61
+L'arbitre du match est : Forcadell Nacho
+Le gagnant est : NomJoueur61 PrenomJoueur61
+-----------------------------------------------------------------------------------------------
+Match 45 : NomJoueur2 PrenomJoueur2 vs NomJoueur160 PrenomJoueur160
+L'arbitre du match est : Keothavong James
+Le gagnant est : NomJoueur160 PrenomJoueur160
+-----------------------------------------------------------------------------------------------
+Match 46 : NomJoueur53 PrenomJoueur43 vs NomJoueur32 PrenomJoueur32
+L'arbitre du match est : Herfel Roland
+Le gagnant est : NomJoueur32 PrenomJoueur32
+-----------------------------------------------------------------------------------------------
+Match 47 : NomJoueur163 PrenomJoueur163 vs NomJoueur147 PrenomJoueur147
+L'arbitre du match est : Bernardes Carlos
+Le gagnant est : NomJoueur163 PrenomJoueur163
+-----------------------------------------------------------------------------------------------
+Match 48 : NomJoueur73 PrenomJoueur73 vs NomJoueur94 PrenomJoueur94
+L'arbitre du match est : Lang Alison
+Le gagnant est : NomJoueur94 PrenomJoueur94
+-----------------------------------------------------------------------------------------------
+Match 49 : NomJoueur86 PrenomJoueur86 vs NomJoueur78 PrenomJoueur78
+L'arbitre du match est : Joseph Emmanuel
+Le gagnant est : NomJoueur78 PrenomJoueur78
+-----------------------------------------------------------------------------------------------
+Match 50 : NomJoueur22 PrenomJoueur22 vs NomJoueur69 PrenomJoueur69
+L'arbitre du match est : Joseph Emmanuel
+Le gagnant est : NomJoueur69 PrenomJoueur69
+-----------------------------------------------------------------------------------------------
+Match 51 : NomJoueur41 PrenomJoueur41 vs NomJoueur85 PrenomJoueur85
+L'arbitre du match est : Lang Alison
+Le gagnant est : NomJoueur41 PrenomJoueur41
+-----------------------------------------------------------------------------------------------
+Match 52 : NomJoueur83 PrenomJoueur83 vs NomJoueur152 PrenomJoueur152
+L'arbitre du match est : Herfel Roland
+Le gagnant est : NomJoueur83 PrenomJoueur83
+-----------------------------------------------------------------------------------------------
+Match 53 : NomJoueur64 PrenomJoueur64 vs NomJoueur140 PrenomJoueur140
+L'arbitre du match est : Dumusois Damien
+Le gagnant est : NomJoueur140 PrenomJoueur140
+-----------------------------------------------------------------------------------------------
+Match 54 : NomJoueur165 PrenomJoueur165 vs NomJoueur42 PrenomJoueur42
+L'arbitre du match est : Blom John
+Le gagnant est : NomJoueur165 PrenomJoueur165
+-----------------------------------------------------------------------------------------------
+Match 55 : NomJoueur158 PrenomJoueur158 vs NomJoueur75 PrenomJoueur75
+L'arbitre du match est : Nili Ali
+Le gagnant est : NomJoueur75 PrenomJoueur75
+-----------------------------------------------------------------------------------------------
+Match 56 : NomJoueur156 PrenomJoueur156 vs NomJoueur159 PrenomJoueur159
+L'arbitre du match est : Lang Alison
+Le gagnant est : NomJoueur156 PrenomJoueur156
+-----------------------------------------------------------------------------------------------
+Match 57 : NomJoueur88 PrenomJoueur88 vs NomJoueur31 PrenomJoueur31
+L'arbitre du match est : Blom John
+Le gagnant est : NomJoueur31 PrenomJoueur31
+-----------------------------------------------------------------------------------------------
+Match 58 : NomJoueur58 PrenomJoueur48 vs NomJoueur144 PrenomJoueur144
+L'arbitre du match est : Keothavong James
+Le gagnant est : NomJoueur144 PrenomJoueur144
+-----------------------------------------------------------------------------------------------
+Match 59 : NomJoueur17 PrenomJoueur17 vs NomJoueur92 PrenomJoueur92
+L'arbitre du match est : Keothavong James
+Le gagnant est : NomJoueur92 PrenomJoueur92
+-----------------------------------------------------------------------------------------------
+Match 60 : NomJoueur154 PrenomJoueur154 vs NomJoueur59 PrenomJoueur49
+L'arbitre du match est : Moscarella Gianluca
+Le gagnant est : NomJoueur154 PrenomJoueur154
+-----------------------------------------------------------------------------------------------
+Match 61 : NomJoueur56 PrenomJoueur46 vs NomJoueur3 PrenomJoueur3
+L'arbitre du match est : Dumusois Damien
+Le gagnant est : NomJoueur3 PrenomJoueur3
+-----------------------------------------------------------------------------------------------
+Match 62 : NomJoueur84 PrenomJoueur84 vs NomJoueur9 PrenomJoueur9
+L'arbitre du match est : Tourte Aurélie
+Le gagnant est : NomJoueur9 PrenomJoueur9
+-----------------------------------------------------------------------------------------------
+Match 63 : NomJoueur25 PrenomJoueur25 vs NomJoueur96 PrenomJoueur96
+L'arbitre du match est : Lang Alison
+Le gagnant est : NomJoueur96 PrenomJoueur96
+-----------------------------------------------------------------------------------------------
+Match 64 : NomJoueur11 PrenomJoueur11 vs NomJoueur166 PrenomJoueur166
+L'arbitre du match est : Bacchi Pierre
+Le gagnant est : No
